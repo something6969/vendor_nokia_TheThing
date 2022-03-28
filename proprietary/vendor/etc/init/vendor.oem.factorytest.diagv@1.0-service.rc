@@ -1,0 +1,5 @@
+service diag_v /vendor/bin/diag_v
+    class late_start
+    user root
+    group root system bluetooth
+    oneshot

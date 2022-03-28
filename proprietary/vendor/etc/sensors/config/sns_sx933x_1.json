@@ -1,0 +1,27 @@
+{
+  "config":{
+    "hw_platform": ["QRD"],
+    "soc_id": ["454"]
+  },
+  "sx933x_0":{
+    "owner": "sx933x_0",
+    ".sar":{
+      "owner": "sx933x_0",
+      ".config":{
+        "owner": "sx933x_0",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "1"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "2"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    }
+  }
+}
